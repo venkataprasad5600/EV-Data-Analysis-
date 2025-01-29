@@ -42,7 +42,7 @@ Business Action: Educate manufacturers and customers about CAFV eligibility crit
 4) Geographic Concentration of EVs Insight: King County (Seattle area) has the highest concentration of EVs, followed by Yakima and Thurston Counties.
 Business Action: Focus charging station infrastructure investments in areas with high EV adoption. Create region-specific marketing campaigns to target EV users in these counties.
 
-5)Popular Electric Vehicle Types Insight: 
+5) Popular Electric Vehicle Types Insight: 
 Battery Electric Vehicles (BEVs) dominate over Plug-in Hybrid Electric Vehicles (PHEVs) in terms of numbers and range.
 Business Action: Promote BEVs as the preferred choice for environmentally-conscious customers. Offer incentives or rebates for PHEV users to transition to BEVs.
 
