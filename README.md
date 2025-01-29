@@ -7,7 +7,7 @@ It aims to provide meaningful analysis to understand the growth, adoption, and c
 # Features
 - Analyzes EV adoption trends over time.
 - Identifies top regions for EV growth.
-- Evaluates the impact of factors like charging infrastructure and government policies.
+- Evaluates the impact of factors like charging infrastructure.
 - Provides data visualizations for better understanding.
 
 # Tech Stack
@@ -17,7 +17,7 @@ It aims to provide meaningful analysis to understand the growth, adoption, and c
 - statistics & probability 
 
 # Dataset
-- link :https://drive.google.com/file/d/11dl_p4LrT8Wh2gp_-EsW7oVr5ymllftc/view?usp=drivesdk
+- link :"C:\Users\Prasad\OneDrive\Electric_Vehicle_Population_Data.csv"
 
 # Processing:
 - Data collected from Kaggle .
